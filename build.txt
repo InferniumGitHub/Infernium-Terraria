@@ -1,0 +1,3 @@
+author = Cerberium
+version = 0.5
+displayName = Infernium Mod
